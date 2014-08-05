@@ -9,6 +9,8 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem "paperclip", "~> 4.1"
+gem "paperclip-dropbox", ">= 1.1.7"
+gem "figaro"
 
 gem 'jquery-rails'
 gem 'turbolinks'
